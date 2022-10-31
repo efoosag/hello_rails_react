@@ -1,4 +1,4 @@
-# My_NEW_RAILS_APP
+# HELLO_RAILS_REACT
 
 > This is a practice project on how to integrate `Ruby on Rails` and ` React` 
 
@@ -18,8 +18,8 @@ To get a local copy up and running follow these simple example steps.
 - computer
 
 ### Setup
-- Run git clone `https://github.com/efoosag/my_new_rails_app.git`
-- Run `cd my_new_rails_app.git`
+- Run git clone `https://github.com/efoosag/hello_rails_react.git`
+- Run `cd hello_rails_react`
 - Run `bundle install`
 - Run `npm i`
 - Run `npm run build`(having issues building the app Run`npm install --save-dev webpack webpack-cli`)
@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/efoosag/my_new_rails_app/issues).
+Feel free to check the [issues page](https://github.com/efoosag/hello_rails_react/issues).
 
 ## Show your support
 
