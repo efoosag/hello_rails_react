@@ -1,6 +1,6 @@
 class Api::V1::MessagesController < ApplicationController
   def index
-    messages = Message.find_by(id: rand(5) + 1)
+    messages = Message.find_by(id: rand(1..5))
     if messages
       render json: messages
     else
